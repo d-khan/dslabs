@@ -10,8 +10,8 @@ Review "Why learn structures" from the book [Data Structures in C++](https://d-k
 1. Explain how to create an array of 100 elements. You can choose any data type of your choice.  
 2. What will be the size of each element of an array
 3. For an array containing 100 elements, provide the number of steps the following operations would take:
-  - Reading
-  - Searching for a value not contained within the array
+a. Reading
+b. Searching for a value not contained within the array
   - Insertion at the beginning of the array
   - Insertion at the end of the array
   - Deletion at the beginning of the array
