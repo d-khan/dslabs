@@ -58,7 +58,7 @@ end
 - Create a video that explains the working of the code and your explanations. Furthermore, the video should show your face on one side of the screen (preferably the top or bottom right of the screen). 
 
 ## How to submit it?
-- Upload your work in Canvas. Remember .txt file formats are for narative based responses and .cpp is for C++ code. Clearly define task numbers.  
+- Upload your work in Canvas. Remember .txt file formats are for narative based responses and .cpp is for C++ code. Clearly define task numbers. __Do not compress files. Do not zip__. 
 
 ## Deadline
 The deadlines are posted on the Syllabus as well as on Canvas.
