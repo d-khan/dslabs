@@ -39,7 +39,7 @@ def multiple_cases(array)
 end
 ```
 
-5. The next function iterates over an array of numbers, and for each number whose index is even, it prints the sum of that number plus every number in the array. What is this function’s efficiency in terms of Big O Notation? - **2 pts**
+5. The next function iterates over an array of numbers, and for each number whose index is even, it prints the sum of that number plus every number in the array. What is this function’s efficiency in terms of Big O Notation? - **4 pts**
 ```
 def every_other(array) 
 	array.each_with_index do |number, index|
@@ -54,8 +54,7 @@ end
 
 ## What to submit?  
 - All the explanation are saved as .txt format and upload in Canvas.
-- Code related responses are saved as .cpp and upload in Canvas.
-- Create a video that explains the working of the code and your explanations. Furthermore, the video should show your face on one side of the screen (preferably the top or bottom right of the screen). 
+- Create a video that explains your solution. Furthermore, the video should show your face on one side of the screen (preferably the top or bottom right of the screen). 
 
 ## How to submit it?
 - Upload your work in Canvas. Remember .txt file formats are for narative based responses and .cpp is for C++ code. Clearly define task numbers. __Do not compress files. Do not zip__. 
@@ -64,6 +63,6 @@ end
 The deadlines are posted on the Syllabus as well as on Canvas.
 
 ## Rubric
-- The video describes the code in detail. The code is working as per instruction, and the explanations of the questions are submitted (10 marks).  
-- The video is submitted, and the code is working, but a partial explanation of the questions is submitted. (7+ marks).  
-- The code is uploaded but not working regardless the video is submitted or not. (0 marks)
+- The video describes the solution in detail. (10 marks).  
+- The video is submitted, but a partial explanation of the questions is submitted. (Marks based on what you have submitted).  
+- The video is not submitted regardless of the solutions are submitted or not. (0 marks)
