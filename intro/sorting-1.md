@@ -1,7 +1,7 @@
 # Sorting algorithms
 
 ## Objective
-Understand the working of sorting algorithms and evaluate algorithm efficiency
+Understand the working of sorting algorithms and evaluate the efficiency of the algorithm
 
 ## Pre-requisite
 Review "Sorting algorithms" from the book [Data Structures in C++](https://d-khan.github.io/ds)
