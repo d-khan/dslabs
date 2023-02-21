@@ -7,15 +7,11 @@ Understand the working of insertion sort algorithm algorithms and evaluate the a
 Review "Sorting algorithms" from the book [Data Structures in C++](https://d-khan.github.io/ds)
 
 ## Task
-1. Proof that, under the average-case scenario, the insertion sort has a time complexity of 
-   $$
-   O(N^2)
-   $$
-   ​																																									**2 pts **
+1. Proof that, under the average-case scenario, the insertion sort has a time complexity of $O(N^2)$  **2 pts **
 
-2. At the start of the insertion sort, the index of the inspected value is set to 1. Change the index of the inspected value and verify that the total number of operations equals 20. Consider the worst-case scenario. Use N=5, where N is the number of elements.  **4 its**
+2. At the start of the insertion sort, the index of the inspected value is set to 1. Change the index of the inspected value and verify that the total number of operations equals 20. Consider the worst-case scenario. Use N=5, where N is the number of elements.  **4 pts**
 
-3. The following function returns whether or not a capital “X” is present within a string. - **4 pt**
+3. The following function returns whether or not a capital “X” is present within a string.  **4 pt**
 
 ```
 function containsX(string) {
