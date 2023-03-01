@@ -13,28 +13,10 @@ Review "Hash Tables" from the book [Data Structures in C++](https://d-khan.githu
 
 Linear search will take $O(N)$. Write a code in C++/Python to improve the search operation efficiency from $O(N)$ to $O(1). **4 pts **
 
+2. Use C++, generate hash value of your name. **1 pts**
 
-1. Proof that, under the average-case scenario, the insertion sort has a time complexity of $O(N^2)$. Draw a clear figure and show all the operations clearly.  **2 pts **
+3. With the help of a figure, explain the problem that occured due to introducing a __tombstone__ to mark the deleted cell. **5 pts**
 
-2. At the start of the insertion sort, the index of the inspected value is set to 1. Change the index of the inspected value and verify that the total number of operations equals 20. Consider the worst-case scenario. Use N=5, where N is the number of elements.  **4 pts**
-
-3. The following function returns whether or not a capital “X” is present within a string.  **4 pt**
-
-```
-function containsX(string) {
-	foundX = false;
-	for(let i = 0; i < string.length; i++) { 
-		if (string[i] === "X") {
-			foundX = true; 
-		}
-	}
-	return foundX; 
-}
-```
-
-(a) What is this function’s time complexity regarding Big O Notation?
-
-(b) Then, modify the code to improve the algorithm’s efficiency for best- and average-case scenarios.
 
 ## What to submit?  
 
