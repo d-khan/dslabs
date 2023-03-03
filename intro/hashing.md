@@ -11,7 +11,7 @@ Review "Hash Tables" from the book [Data Structures in C++](https://d-khan.githu
 
 ```array = [200, 400, 100, 50, 350]```
 
-Linear search will take $O(N)$. Write a code in C++/Python to improve the search operation efficiency from $O(N)$ to $O(1). **4 pts **
+Linear search will take $O(N)$. Write a code in C++/Python to improve the search operation efficiency from $O(N)$ to $O(1)$. **4 pts **
 
 2. Use C++, generate hash value of your name. **1 pts**
 
