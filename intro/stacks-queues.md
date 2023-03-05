@@ -11,7 +11,7 @@ Review "Stacks and Queues" from the book [Data Structures in C++](https://d-khan
 
 2. Using Figure 18 as a model, in the book [Data Structures in C++](https://d-khan.github.io/ds), illustrate the result of each operation in the sequence ENQUEUE(Q,4), ENQUEUE(Q,1), ENQUEUE(Q,3), DEQUEUE(Q), ENQUEUE(Q,8), and DEQUEUE(Q) on an initially empty queue $Q$ stored in array $Q[1..6]$. **3 pts**
 
-3. Rewrite ENQUEUE and DEQUEUE to detect ***underflow*** and ***overflow*** of a queue. (see Listings 4 & 5 in the book). **1 pts**
+3. Rewrite ENQUEUE and DEQUEUE to detect ***underflow*** and ***overflow*** of a queue. (see Listings 4 & 5 in the book). **1 pt**
 
 4. A stack allows insertion and deletion of elements at only end, and a queue allows insertion at one end and deletion at the other end, a **deque** (double-ended queue) allows insertion and deletion at both ends. Write four $O(1)$-time procedures to insert elements into and delete elements from both ends of a deque implemented by an array. **3 pts**
 
