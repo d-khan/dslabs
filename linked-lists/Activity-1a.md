@@ -4,7 +4,7 @@
 Implement linked lists data structures in C++
 
 ## Pre-requisite
-Review [Linked lists](https://htmlpreview.github.io/?https://github.com/d-khan/dslabs/commit/0108adbcdb1ebf4c1e80cc3576d2a447f87ba4e5)
+Review [Linked lists](https://htmlpreview.github.io/?https://github.com/d-khan/dslabs/blob/main/linked-lists/Linked%20lists.html) contents.
 
 ## Task
 1. Using Figure 17 as a model, in the book [Data Structures in C++](https://d-khan.github.io/ds), illustrate the result of each operation in the sequence PUSH(S,4), PUSH(S,1), PUSH(S,3), POP(S), PUSH(S,8), and POP(S) on an initially empty stack $S$ stored in array $S[1..6]$. ***Code is not required.*** **3 pts** 
