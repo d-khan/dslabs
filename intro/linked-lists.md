@@ -2,7 +2,7 @@
 
 The following contents are in draft mode as I could not find time to finalize and include them in my book.
 
-- Linked lists are extensions to arrays and perform better than arrays in some but not all scenarios.**
+- Linked lists are extensions to arrays and perform better than arrays in some but not all scenarios.
 
 - You have already noticed that data structures are costly to run in some scenarios. It is a programmer's job to select the correct data structure for the given job.
 
@@ -70,7 +70,7 @@ If we want to add "yellow" to the beginning of the list, all we have to do is cr
 
 | Scenario                          | Array                       | Linked list                 |
 | --------------------------------- | --------------------------- | --------------------------- |
-| Reading                           | $$O(1)$$                    | $$O(N)$$                    |
+| Reading                           | $O(1)$                      | $$O(N)$$                    |
 | Search                            | $$O(N)$$                    | $$O(N)$$                    |
 | Insert or delete at the beginning | $$O(N)$$                    | $$O(1)$$                    |
 | Insert or delete in the middle    | Between $$O(N)$$ & $$O(1)$$ | Between $$O(N)$$ & $$O(1)$$ |
