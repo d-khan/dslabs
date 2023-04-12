@@ -4,7 +4,8 @@
 Implement Breadth-first search and Depth-first search algorithms in C++
 
 ## Pre-requisite
-Review [Binary Heaps](https://htmlpreview.github.io/?https://github.com/d-khan/dslabs/blob/main/binaryheaps/Binary%20heaps.html) lecture.
+Review [Graphs](https://htmlpreview.github.io/?https://github.com/d-khan/dslabs/blob/main/graphs/Lecture.html) lecture.
+
 
 ## Tasks
 1. Draw what the following heap would look like after we insert the value 11 into it:
