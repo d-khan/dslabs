@@ -1,7 +1,7 @@
 # Graphs
 
 ## Objective
-Implement binary heaps data structures in C++
+Implement Breadth-first search and Depth-first search algorithms in C++
 
 ## Pre-requisite
 Review [Binary Heaps](https://htmlpreview.github.io/?https://github.com/d-khan/dslabs/blob/main/binaryheaps/Binary%20heaps.html) lecture.
