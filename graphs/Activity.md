@@ -6,18 +6,13 @@ Implement Breadth-first search and Depth-first search algorithms in C++
 ## Pre-requisite
 Review [Graphs](https://htmlpreview.github.io/?https://github.com/d-khan/dslabs/blob/main/graphs/Lecture.html) lecture.
 
-
 ## Tasks
-1. Draw what the following heap would look like after we insert the value 11 into it:
-<img width="377" alt="image" src="https://user-images.githubusercontent.com/11669149/229943640-2f9f7951-a9c6-4e4a-86f2-ea5dcd4bc64a.png">
-
-2. Draw what the previous heap would look like after we delete the root node.
-
-3. Imagine you’ve built a brand-new heap by inserting the following numbers into the heap in this particular order: 55, 22, 34, 10, 2, 99, 68. If you then pop them from the heap one at a time and insert the numbers into a new array, in what order would the numbers now appear?
+1. Create a theoretical graph using a pen and paper OR electronically. **(2 points)**
+2. Implement the graph created in step 1 and apply breadth and depth-first search algorithms using C++. **(6 points)**
+3. Compare both search algorithms in the context of Big O notations. **(2 points)**
 
 ## What to submit?  
-
-- All the explanations are saved in .txt format and uploaded in Canvas.
+- Save the explanation in .txt format and upload it in Canvas.
 - Create a video that explains your solution. Furthermore, the video should show your face on one side of the screen (preferably the top or bottom right of the screen). 
 
 ## How to submit it?
