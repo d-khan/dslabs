@@ -283,7 +283,7 @@ In a weighted graph, the **path length** is the sum of the edge weights in the p
 
 The **cycle length** is the sum of the edge weights in a cycle. A **negative edge weight cycle** has a cycle length less than 0. A shortest path does not exist in a graph with a negative edge weight cycle, because each loop around the negative edge weight cycle further decreases the cycle length, so no minimum exists.
 
-![image-20230413165617464](/Users/danish/Library/Application%20Support/typora-user-images/image-20230413165617464.png)
+<img width="681" alt="image" src="https://user-images.githubusercontent.com/11669149/232980652-0c23b4a8-bacf-4631-bd15-70ca4a298a25.png">
 
 ## Dijkstra's shortest path
 
