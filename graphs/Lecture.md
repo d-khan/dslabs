@@ -221,4 +221,205 @@ DFS(startV) {
 6. Vertex C is popped off the stack and visited. All remaining vertices except D are in the visited set.
 7. Vertex D is the last vertex visited.
 
-**More topics to come...**
+## Directed graphs
+
+A **directed graph**, or **digraph**, consists of vertices connected by directed edges. A **directed edge** is a connection between a starting vertex and a terminating vertex. In a directed graph, a vertex Y is **adjacent** to a vertex X, if there is an edge from X to Y.
+
+Many graphs are directed, like those representing links between web pages, maps for navigation, or college course prerequisites.
+
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/11669149/231902240-b7d9325f-8561-4ed8-b937-c5787af1e939.png">
+
+
+
+1. Items in the world may have directed connections, like links on a website.
+2. directed graph's vertices represent items.
+3. Vertices are connected by directed edges.
+4. A directed edge represents a connection from a starting vertex to a terminating vertex; the terminating vertex is adjacent to the starting vertex. B is adjacent to A, but A is not adjacent to B.
+5. A directed graph can represent many things, like airline connections between cities. A flight is available from Los Angeles to Tucson, but not Tucson to Los Angeles.
+
+### Path and cycles
+
+In a directed graph:
+
+- A **path** is a sequence of directed edges leading from a source (starting) vertex to a destination (ending) vertex.
+- A **cycle** is a path that starts and ends at the same vertex. A directed graph is **cyclic** if the graph contains a cycle, and **acyclic** if the graph does not contain a cycle.
+
+<img width="504" alt="image" src="https://user-images.githubusercontent.com/11669149/231904856-b1e731b9-1323-42a9-ba66-f5e77d7b0695.png">
+
+1. A path is a sequence of directed edges leading from a source (starting) vertex to a destination (ending) vertex.
+2. A cycle is a path that starts and ends at the same vertex. A graph can have more than one cycle.
+3. A cyclic graph contains a cycle. An acyclic graph contains no cycles.
+
+### Example - Cycles in directed graphs: Kidney transplants
+
+A patient needing a kidney transplant may have a family member willing to donate a kidney but is incompatible. That family member is willing to donate a kidney to someone else, as long as their family member also receives a kidney donation. Suppose Gregory needs a kidney. Gregory's wife, Eleanor, is willing to donate a kidney but is not compatible with Gregory. However, Eleanor is compatible with another patient Joanna, and Joanna's husband Darrell is compatible with Gregory. So, Eleanor donates a kidney to Joanna, and Darrell donates a kidney to Gregory, which is an example of a 2-way kidney transplant. In 2015, a 9-way kidney transplant involving 18 patients was performed within 36 hours (Source: [SF Gate](http://www.sfgate.com/health/article/9-way-kidney-swap-involving-18-surgeries-at-2-6307975.php)). Multiple-patient kidney transplants can be represented as cycles within a directed graph.
+
+<img width="643" alt="image" src="https://user-images.githubusercontent.com/11669149/231905100-4d281911-cf98-4ead-b0da-cc489ba384b2.png">
+
+In this graph, vertices represent patients, and edges represent compatibility between a patient's family member (shown in parentheses) and another patient. An N-way kidney transplant is represented as a cycle with N edges. Due to the complexity of coordinating multiple simultaneous surgeries, hospitals and doctors typically try to find the shortest possible cycle.
+
+## Weighted graphs
+
+A **weighted graph** associates a weight with each edge. A graph edge's **weight**, or **cost**, represents some numerical value between vertex items, such as flight cost between airports, connection speed between computers, or travel time between cities. A weighted graph may be directed or undirected.
+
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/11669149/231905486-22524ec6-ceda-407e-8b96-9ec9aab179e4.png">
+
+Weighted graphs can be directed.  Ex: Edge weights may indicate travel time (hours) between cities; travel times may vary by direction. 
+
+1. A weighted graph associates a numerical weight, or cost, with each edge. Ex: Edge weights may indicate connection speed (Mbps) between computers.
+2. Weighted graphs can be directed. Ex: Edge weights may indicate travel time (hours) between cities; travel times may vary by direction.
+
+### Path length in weighted graphs
+
+In a weighted graph, the **path length** is the sum of the edge weights in the path.
+
+<img width="562" alt="image" src="https://user-images.githubusercontent.com/11669149/231905672-d2cad29a-0218-4af4-b0ec-19413c75965f.png">
+
+1. A path is a sequence of edges from a source vertex to a destination vertex.
+2. The path length is the sum of the edge weights in the path.
+3. The shortest path is the path yielding the lowest sum of edge weights. Ex: The shortest path from Paris to Marseille is 6.
+
+### Negative edge weight cycles
+
+The **cycle length** is the sum of the edge weights in a cycle. A **negative edge weight cycle** has a cycle length less than 0. A shortest path does not exist in a graph with a negative edge weight cycle, because each loop around the negative edge weight cycle further decreases the cycle length, so no minimum exists.
+
+![image-20230413165617464](/Users/danish/Library/Application%20Support/typora-user-images/image-20230413165617464.png)
+
+## Dijkstra's shortest path
+
+Finding the shortest path between vertices in a graph has many applications. Ex: Finding the shortest driving route between two intersections can be solved by finding the shortest path in a directed graph where vertices are intersections and edge weights are distances. If edge weights instead are expected travel times (possibly based on real-time traffic data), finding the shortest path will provide the fastest driving route.
+
+Dijkstra's algorithm initializes all vertices' distances to infinity (∞), initializes all vertices' predecessors to null, and enqueues all vertices into a queue of unvisited vertices. The algorithm then assigns the start vertex's distance with 0. While the queue is not empty, the algorithm dequeues the vertex with the shortest distance. For each adjacent vertex, the algorithm computes the distance of the path from the start vertex to the current vertex and continuing on to the adjacent vertex. If that path's distance is shorter than the adjacent vertex's current distance, a shorter path has been found. The adjacent vertex's current distance is updated to the distance of the newly found shorter path's distance, and vertex's predecessor pointer is pointed to the current vertex. [See Dijkstra's shortest path algorithm in action](https://youtu.be/7MLD33ubQzE).
+
+### Dijkstra's algorithm
+
+```
+DijkstraShortestPath(startV) {
+   for each vertex currentV in graph {
+      currentV⇢distance = Infinity
+      currentV⇢predV = 0
+      Enqueue currentV in unvisitedQueue
+   }
+
+   // startV has a distance of 0 from itself
+   startV⇢distance = 0
+
+   while (unvisitedQueue is not empty) {
+      // Visit vertex with minimum distance from startV
+      currentV = DequeueMin unvisitedQueue
+
+      for each vertex adjV adjacent to currentV {
+         edgeWeight = weight of edge from currentV to adjV
+         alternativePathDistance = currentV⇢distance + edgeWeight
+            
+         // If shorter path from startV to adjV is found,
+         // update adjV's distance and predecessor
+         if (alternativePathDistance < adjV⇢distance) {
+            adjV⇢distance = alternativePathDistance
+            adjV⇢predV = currentV
+         }
+      }
+   }
+}
+```
+
+1. Each vertex is initialized with distance set to Infinity and the predecessor pointer set to null. Each vertex is enqueued into unvisitedQueue.
+2. The start vertex's distance is 0. The algorithm visits the start vertex first.
+3. For each adjacent vertex, if a shorter path from the start vertex to the adjacent vertex is found, the vertex's distance and predecessor pointer are updated.
+4. B has the shortest path distance, and is dequeued from the queue. The path through B to C is not shorter, so no update occurs. The path through B to D is shorter, so D's distance and predecessor are updated.
+5. D is then dequeued. The path through D to C is shorter, so C's distance and predecessor pointer are updated.
+6. C is then dequeued. The path through C to D is not shorter, so no update occurs.
+7. The algorithm terminates when all vertices are visited. Each vertex's distance is the shortest path distance from the start vertex. The vertex's predecessor pointer points to the previous vertex in the shortest path.
+
+### Finding shortest path from start vertex to destination vertex
+
+After running Dijkstra's algorithm, the shortest path from the start vertex to a destination vertex can be determined using the vertices' predecessor pointers. If the destination vertex's predecessor pointer is not 0, the shortest path is traversed in reverse by following the predecessor pointers until the start vertex is reached. If the destination vertex's predecessor pointer is null, then a path from the start vertex to the destination vertex does not exist.
+
+<img width="405" alt="image" src="https://user-images.githubusercontent.com/11669149/232973246-69524340-5e6a-4a70-9163-c2bea9c164df.png">
+
+1. The vertex's predecessor pointer points to the previous vertex in the shortest path.
+2. Starting with the destination vertex, the predecessor pointer is followed until the start vertex is reached.
+3. The vertex's distance is the shortest path distance from the start vertex.
+
+### Algorithm efficiency
+
+If the unvisited vertex queue is implemented using a list, the runtime for Dijkstra's shortest path algorithm is O(V2). The outer loop executes V times to visit all vertices. In each outer loop execution, dequeuing the vertex from the queue requires searching all vertices in the list, which has a runtime of O(V). For each vertex, the algorithm follows the subset of edges to adjacent vertices; following a total of E edges across all loop executions. Given E < V2, the runtime is O(V*V + E) = O(V2 + E) = O(V2). Implementing the unvisited vertex queue using a standard binary heap reduces the runtime to O((E + V) log V), and using a Fibonacci heap data structure (not discussed in this material) reduces the runtime to O(E + V log V).
+
+> Dijkstra's shortest path algorithm can be used for unweighted graphs (using a uniform edge weight of 1) and weighted graphs with non-negative edges weights. For a directed graph with negative edge weights, Dijkstra's algorithm may not find the shortest path for some vertices, so the algorithm should not be used if a negative edge weight exists.
+
+### Applications
+
+1. Dijkstra’s algorithm is used as a routing protocol required by the routers to update their forwarding table.
+2. It is used to find the shortest distance between two locations along the path on google maps.
+3. It is used in telephone networking to find the shortest path for the nearest transmission switching station.
+4. Dijkstra’s algorithm finds the shortest path between users measured through handshakes or connections among them.
+5. Dijkstra’s algorithm minimizes the number of hops in computer networks.
+
+### Dijkistra's algoritm implementation in C++
+
+``` c++
+#include <iostream>
+using namespace std;
+
+int miniDist(int distance[], bool Tset[]) // finding minimum distance
+{
+    int minimum=INT_MAX,ind;
+              
+    for(int k=0;k<6;k++) 
+    {
+        if(Tset[k]==false && distance[k]<=minimum)      
+        {
+            minimum=distance[k];
+            ind=k;
+        }
+    }
+    return ind;
+}
+
+void DijkstraAlgo(int graph[6][6],int src) // adjacency matrix 
+{
+    int distance[6]; // // array to calculate the minimum distance for each node                             
+    bool Tset[6];// boolean array to mark visited and unvisited for each node
+    
+     
+    for(int k = 0; k<6; k++)
+    {
+        distance[k] = INT_MAX;
+        Tset[k] = false;    
+    }
+    
+    distance[src] = 0;   // Source vertex distance is set 0               
+    
+    for(int k = 0; k<6; k++)                           
+    {
+        int m=miniDist(distance,Tset); 
+        Tset[m]=true;
+        for(int k = 0; k<6; k++)                  
+        {
+            // updating the distance of neighbouring vertex
+            if(!Tset[k] && graph[m][k] && distance[m]!=INT_MAX && distance[m]+graph[m][k]<distance[k])
+                distance[k]=distance[m]+graph[m][k];
+        }
+    }
+    cout<<"Vertex\t\tDistance from source vertex"<<endl;
+    for(int k = 0; k<6; k++)                      
+    { 
+        char str=65+k; 
+        cout<<str<<"\t\t\t"<<distance[k]<<endl;
+    }
+}
+
+int main()
+{
+    int graph[6][6]={
+        {0, 1, 2, 0, 0, 0},
+        {1, 0, 0, 5, 1, 0},
+        {2, 0, 0, 2, 3, 0},
+        {0, 5, 2, 0, 2, 2},
+        {0, 1, 3, 2, 0, 1},
+        {0, 0, 0, 2, 1, 0}};
+    DijkstraAlgo(graph,0);
+    return 0;                           
+}
+```
+
