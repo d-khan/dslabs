@@ -1,15 +1,13 @@
 # Graphs
 
 ## Objective
-Implement Breadth-first search and Depth-first search algorithms in C++
+Understanding Dijkstra's algorithm
 
 ## Pre-requisite
 Review [Graphs](https://htmlpreview.github.io/?https://github.com/d-khan/dslabs/blob/main/graphs/Lecture.html) lecture.
 
 ## Tasks
-1. Create a theoretical graph using a pen and paper OR electronically. **(2 points)**
-2. Implement the graph created in step 1 and apply breadth and depth-first search algorithms using C++. **(6 points)**
-3. Compare both search algorithms in the context of Big O notations. **(2 points)**
+1. Explain with the help of an example __"Why Dijkstra's algorithm fails on negative weights"__.
 
 ## What to submit?  
 - Save the explanation in .txt format and upload it in Canvas.
