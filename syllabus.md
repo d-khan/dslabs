@@ -51,7 +51,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |10 |10 Apr |Heaps and Treaps| Assignments due on 16 Apr|
 |11 |17 Apr |Sets | Assignments due on 23 Apr|
 |12 |24 Apr |Graphs | Assignments due on 30 Apr |
-|13 |1 May  |Algorithms | Assignments due on 7 May |
+|13 |1 May  |Recursions | Assignments due on 7 May |
 |14 |8 May  |B-trees| Assignments due on 14 May|
 |15 |15 May |Project work | No assignments |
 |16 |22 May |Project work | __Project due on 26 May__
