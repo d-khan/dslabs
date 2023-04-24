@@ -67,7 +67,7 @@ Write a recursive function that prints all the numbers (and just numbers).
 - Submit the code with an extension (.cpp).
 
 ## How to submit it?
-- Upload your work in Canvas. Remember .txt file formats are for narrative-based responses, and .cpp is for C++ code. Clearly define task numbers. __Do not compress files. Do not zip. Use mp4 format for the videos__
+- Upload your work in Canvas. Remember .txt file formats are for narrative-based responses, and .cpp is for C++ code. Clearly define task numbers. __Do not compress files. Do not zip.__
 
 ## Deadline
 The deadlines are posted on the Syllabus as well as on Canvas.
