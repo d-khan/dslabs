@@ -73,6 +73,7 @@ Write a recursive function that prints all the numbers (and just numbers).
 The deadlines are posted on the Syllabus as well as on Canvas.
 
 ## Rubric
+- All questions contain equal marks.
 - The code is submitted with no errors, and all questions are answered correctly. (10 marks).  
 - The code is submitted and the questions are partially explained. (Marks based on the correct answers and the code). 
 
