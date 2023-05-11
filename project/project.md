@@ -130,4 +130,5 @@ This array’s longest sequence is 11-12-13-14-15, so the function would return 
 
 - Complete the tasks using C++ programming language. 
 - Submit the code in a separate .cpp file extension.
+- Each task worth is 5 points.
 
