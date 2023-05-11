@@ -82,13 +82,13 @@ Now, we could use nested loops to find the profit of every possible buy and sell
 
 ## Task 4
 
-1. You’re writing a function that accepts an array of numbers and computes the highest product of any two numbers in the array. At first glance, this is easy, as we can just find the two greatest numbers and multiply them. However, our array can contain negative numbers and look like this:
+You’re writing a function that accepts an array of numbers and computes the highest product of any two numbers in the array. At first glance, this is easy, as we can just find the two greatest numbers and multiply them. However, our array can contain negative numbers and look like this:
 
-   ```
-   [5, -10, -6, 9, 4]
-   ```
+```
+[5, -10, -6, 9, 4]
+```
 
-   We could use nested loops to multiply every possible pair of numbers, but this would take $O(N^2)$ time. **Your job is to optimize the function so that it’s a speedy $O(N)$.**
+We could use nested loops to multiply every possible pair of numbers, but this would take $O(N^2)$ time. **Your job is to optimize the function so that it’s a speedy $O(N)$.**
 
 ## Task 5
 
