@@ -87,9 +87,10 @@ I recommend following my notes and resources provided on the course site in Canv
 
 |Evaluation type|Out of 100|
 |:-|:-|
-|Weekly lab assignments|50|
+|Weekly lab assignments|30|
 |Discussions|20|
 |Project|30|
+|Final exam|20|
 
 ## __Late/due work__
 
