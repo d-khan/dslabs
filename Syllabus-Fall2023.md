@@ -40,23 +40,23 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 |Week|<div style="width:50px">Date</div>|Topics | Deadlines|
 |-|--|--|----|
-|1  |30 Jan |Introduction to Data Structures and Algorithms | Assignments due on 5 Feb |
-|2  |6 Feb  |Searching and Big O Notation | Assignments due on 12 Feb |
-|3  |13 Feb |Sorting Algorithms I | Assignments due on 19 Feb |
-|4  |20 Feb |Sorting Algorithms II | Assignments due on 26 Feb |
-|5  |27 Feb |List | Assignments Due on 5 Mar|
-|6  |6 Mar  |Stacks and Queues | Assignments due on 12 Mar|
-|7  |13 Mar |Hash Tables | Assignments due on 19 Mar|
-|8  |20 Mar |Trees | Assignments due on 2 Apr |
-|||__Spring break (27 Mar - 1 Apr) - No classes__|
-|9  |3 Apr  |Balanced Trees| Assignments due on 9 Apr|
-|10 |10 Apr |Heaps and Treaps| Assignments due on 16 Apr|
-|11 |17 Apr |Sets | Assignments due on 23 Apr|
-|12 |24 Apr |Graphs | Assignments due on 30 Apr |
-|13 |1 May  |Recursions | Assignments due on 7 May |
-|14 |8 May  |B-trees| Assignments due on 14 May|
-|15 |15 May |Project work | No assignments |
-|16 |22 May |Project work | __Project due on 26 May__
+|1  |21 Aug |Introduction to Data Structures and Algorithms | Assignments due on 27 Aug |
+|2  |28 Aug  |Searching and Big O Notation | Assignments due on 3 Sep |
+|3  |4 Sep |Sorting Algorithms I | Assignments due on 10 Sep|
+|4  |11 Sep |Sorting Algorithms II | Assignments due on 17 Sep |
+|5  |18 Sep |List | Assignments Due on 24 Sep|
+|6  |25 Sep  |Stacks and Queues | Assignments due on 1 Oct|
+|7  |2 Oct |Hash Tables | Assignments due on 8 Oct|
+|8  |9 Oct |Trees | Assignments due on 15 Oct |
+|9  |16 Oct  |Balanced Trees| Assignments due on 22 Oct|
+|10 |23 Oct |Heaps and Treaps| Assignments due on 29 Oct|
+|11 |30 Oct |Sets | Assignments due on 5 Nov|
+|12 |6 Nov |Graphs | Assignments due on 12 Nov |
+|13 |13 Nov  |Recursions | Assignments due on 19 Nov |
+|||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
+|14 |27 Nov  |B-trees| Assignments due on 3 Dec|
+|15 |4 Dec |Project work | No assignments |
+|16 |15 Dec |Project work | __Project due on 15 Dec__
 
 ## __Textbook__
 
