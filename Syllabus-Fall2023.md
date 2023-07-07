@@ -38,7 +38,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 ## __Course outline and schedule__
 
-|Week|<div style="width:50px">Date</div>|Topics | Deadlines|
+|Week|<div style="width:50px">Week commence from</div>|Topics | Deadlines|
 |-|--|--|----|
 |1  |21 Aug |Introduction to Data Structures and Algorithms | Assignments due on 27 Aug |
 |2  |28 Aug  |Searching and Big O Notation | Assignments due on 3 Sep |
@@ -56,7 +56,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
 |14 |27 Nov  |B-trees| Assignments due on 3 Dec|
 |15 |4 Dec |Project work | No assignments |
-|16 |15 Dec |Project work | __Project due on 15 Dec__
+|16 |15 Dec |Final exam on 15 Dec  | __Project due on 15 Dec__
 
 ## __Textbook__
 
