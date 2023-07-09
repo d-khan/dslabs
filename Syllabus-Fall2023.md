@@ -49,7 +49,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |7  |2 Oct |Linked lists | Assignments due on 8 Oct|
 |8  |9 Oct |Binary search trees | Assignments due on 15 Oct |
 |9  |16 Oct  |Binary heaps| Assignments due on 22 Oct|
-|10 |23 Oct |Graphs I| Assignments due on 29 Oct|
+|10 |23 Oct |Graphs I| Assignments due on 5 Nov|
 |11 |30 Oct |Graphs II | Assignments due on 5 Nov|
 |12 |6 Nov |Recursion | Assignments due on 12 Nov |
 |13 |13 Nov  |Space constraints | Assignments due on 19 Nov |
