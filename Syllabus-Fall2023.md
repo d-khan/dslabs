@@ -44,19 +44,19 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |2  |28 Aug  |Searching and Big O Notation | Assignments due on 3 Sep |
 |3  |4 Sep |Sorting Algorithms I | Assignments due on 10 Sep|
 |4  |11 Sep |Sorting Algorithms II | Assignments due on 17 Sep |
-|5  |18 Sep |List | Assignments Due on 24 Sep|
+|5  |18 Sep |Hash tables | Assignments Due on 24 Sep|
 |6  |25 Sep  |Stacks and Queues | Assignments due on 1 Oct|
-|7  |2 Oct |Hash Tables | Assignments due on 8 Oct|
-|8  |9 Oct |Trees | Assignments due on 15 Oct |
-|9  |16 Oct  |Balanced Trees| Assignments due on 22 Oct|
-|10 |23 Oct |Heaps and Treaps| Assignments due on 29 Oct|
-|11 |30 Oct |Sets | Assignments due on 5 Nov|
-|12 |6 Nov |Graphs | Assignments due on 12 Nov |
-|13 |13 Nov  |Recursions | Assignments due on 19 Nov |
+|7  |2 Oct |Linked lists | Assignments due on 8 Oct|
+|8  |9 Oct |Binary search trees | Assignments due on 15 Oct |
+|9  |16 Oct  |Binary heaps| Assignments due on 22 Oct|
+|10 |23 Oct |Graphs I| Assignments due on 29 Oct|
+|11 |30 Oct |Graphs II | Assignments due on 5 Nov|
+|12 |6 Nov |Recursion | Assignments due on 12 Nov |
+|13 |13 Nov  |Space constraints | Assignments due on 19 Nov |
 |||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
-|14 |27 Nov  |B-trees| Assignments due on 3 Dec|
-|15 |4 Dec |Project work | No assignments |
-|16 |15 Dec |Final exam on 15 Dec  | __Project due on 15 Dec__
+|14 |27 Nov  |Project work| No assignments|
+|15 |4 Dec |Project work & Revision| __Project due to 10 Dec__  |
+|16 |11 Dec |Final exam on 15 Dec  | |
 
 ## __Textbook__
 
