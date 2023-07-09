@@ -55,7 +55,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |13 |13 Nov  |Space constraints | Assignments due on 19 Nov |
 |||__Break + Thanksgiving (20 - 24 Nov) - No classes__|
 |14 |27 Nov  |Project work| No assignments|
-|15 |4 Dec |Project work & Revision| __Project due to 10 Dec__  |
+|15 |4 Dec |Project work & Revision| __Project due on 10 Dec__  |
 |16 |11 Dec |Final exam on 15 Dec  | |
 
 ## __Textbook__
