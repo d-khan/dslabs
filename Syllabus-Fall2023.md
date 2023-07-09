@@ -27,7 +27,7 @@
 |27 Oct                 |   __Pass/No Pass:__ Deadline for the student to select the P/NP option. __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
 |10 Nov                 |   __Veterans Day (CAMPUS CLOSED)__ |
 |23-24 Nov              |   __Thanksgiving (CAMPUS CLOSED)__ |
-|16 Dec                 |   Session end|
+|16 Dec                 |   Session ends|
 |5 Jan 2024             | __Grades:__ Deadline for instructors to submit final grades|
 
 ## __Instructor communication policy__
