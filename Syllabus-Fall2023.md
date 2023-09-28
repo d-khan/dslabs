@@ -15,6 +15,10 @@
 |   Office hours                |   Tue 9:30-10:30 am - Online (Appointment required via an email)|
 |   Email                       |   Use Canvas Messaging System |
 
+## Student learning outcome
+- Demonstrate an ability to successfully follow a specification. Measurement Method: Development of classroom projects.  
+- Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments.
+
 ## __Important dates/deadline__
 
 |<div style="width:100px"></div> ||
