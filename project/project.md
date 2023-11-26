@@ -1,5 +1,11 @@
 # Project activity
 
+## Notes
+
+- Complete the tasks using C++ programming language. 
+- Submit the code in a separate .cpp file extension and provide a meaningful filename such as task1.cpp.
+- Each task worth is 5 points.
+
 ## Task 1
 
 You’re working on software that analyzes sports players. Following are two arrays of players of different sports:
@@ -126,9 +132,5 @@ This array’s longest sequence is 11-12-13-14-15, so the function would return 
 
 **Your job is to optimize the function so that it takes $O(N)$ time.**
 
-## Notes
 
-- Complete the tasks using C++ programming language. 
-- Submit the code in a separate .cpp file extension and provide a meaningful filename such as task1.cpp.
-- Each task worth is 5 points.
 
