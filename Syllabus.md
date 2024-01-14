@@ -11,7 +11,7 @@
 |<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-187 Data Structures in C++|
-|   Year                        |   Fall 2023-24|
+|   Year                        |   Spring 2024|
 |   Class ID                    |   54187|
 |   Section                     |   3001|
 |   Location                    |   Online|
