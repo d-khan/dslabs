@@ -51,7 +51,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
 |1  |29 Jan |Introduction to Data Structures and Algorithms | Operation on Arrays | 3 Feb |
-|2  |5 Feb  |Searching and Big O Notation | Implement linear and binary search algorithms | Assignments | 10 Feb |
+|2  |5 Feb  |Searching and Big O Notation | Implement linear and binary search algorithms | 10 Feb |
 |3  |12 Feb |Sorting Algorithms I | Time complexity of sorting algorithms | 17 Feb |
 |4  |19 Feb |Sorting Algorithms II | Understand the working of insertion sort algorithm | 24 Feb |
 |5  |26 Feb |Hash tables | Understand the working of hash algorithms | 2 Mar|
