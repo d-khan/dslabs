@@ -22,14 +22,13 @@ The manager plans to run an advertising campaign for the products offered by the
 
 a. Explain how you are going to solve the problem mentioned above. No coding or pseudocode is needed in this step.  
 b. Implement the solution that you proposed in part a. Furthermore, the implemented solution should be able to identify consecutive months when the sales are at the highest when a different dataset is used.   
-c. Write the pseudocode and explain the algorithm in terms of O(N) notation.
-d. What are the limitations of the solution you proposed in part a.  
-
-
+c. Write the pseudocode and explain the algorithm using O(N) notation.
+d. What are the limitations of the solution you proposed in part a?  
 
 ## Submission?  
 
 - All the explanations are saved in .txt format and uploaded in Canvas.
+- Use .cpp extension for the C++ code.
 - Create a video that explains your solution. Furthermore, the video should show your face on one side of the screen (preferably the top or bottom right of the screen). 
 
 ## How to submit it?
