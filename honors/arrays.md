@@ -18,6 +18,8 @@ You are a data analyst for a company that sells residential computers. The manag
 | Nov | 86 |
 | Dec | 63 |
 
+Your job is to find out which consecutive months have total positive sales.
+
 
 
 ## What to submit?  
