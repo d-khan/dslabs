@@ -1,7 +1,7 @@
 # Arrays - Honors contract
 
 ## Task
-You are a data analyst for a company that sells residential computers. The manager presented you with a dataset of the year 2023 sales.
+You are a data analyst for a company that sells residential computers. The manager shared with you a dataset of the year 2023 sales.
 
 | __Month__ | __Sales in USD (Millions)__ |
 | :-------: | :------------:|
@@ -18,7 +18,9 @@ You are a data analyst for a company that sells residential computers. The manag
 | Nov | 86 |
 | Dec | 63 |
 
-Your job is to find out which consecutive months have total positive sales.
+The manager plans to run an advertising campaign for the products offered by the company. The manager wants to know which consecutive months have the maximum positive sales, so the advertisement can be targeted on months before and after the successive months of the maximum positive sales. Based on the dataset, you have the following tasks:
+
+a. Write an 
 
 
 
