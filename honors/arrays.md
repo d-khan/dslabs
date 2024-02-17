@@ -4,6 +4,7 @@
 You are a data analyst for a company that sells residential computers. The manager presented you with a dataset of the year 2023 sales.
 
 | __Month__ | __Sales in USD (Millions)__ |
+| :-------: | :------------:|
 | Jan | 100|
 | Feb | 113 |
 | Mar | 110 |
