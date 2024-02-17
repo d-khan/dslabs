@@ -20,8 +20,8 @@ You are a data analyst for a company that sells residential computers. The manag
 
 The manager plans to run an advertising campaign for the products offered by the company. The manager wants to know which consecutive months have the maximum positive sales so that the advertisement can be targeted on months before and after the successive months of the maximum positive sales. Based on the dataset, you have the following tasks:
 
-a. Explain how you are going to solve the problem mentioned above. No coding or pseudocode is needed in this step.
-b. Implement the solution that you proposed in part a. Furthermore, the implemented solution should be able to provide the correct output when "Sales" values are different from the given dataset.
+a. Explain how you are going to solve the problem mentioned above. No coding or pseudocode is needed in this step.  
+b. Implement the solution that you proposed in part a. Furthermore, the implemented solution should be able to provide the correct output when "Sales" values are different from the given dataset.  
 c. Write the pseudocode and include the 
 
 
