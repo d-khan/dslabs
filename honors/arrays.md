@@ -21,8 +21,11 @@ You are a data analyst for a company that sells residential computers. The manag
 The manager plans to run an advertising campaign for the products offered by the company. The manager wants to know which consecutive months contribute towards the highest sales so that the advertisement can be targeted on months before and after the successive months of the highest sales. Based on the dataset, you have the following tasks:
 
 a. Explain how you are going to solve the problem mentioned above. No coding or pseudocode is needed in this step.  
+
 b. Implement the solution that you proposed in part a. Furthermore, the implemented solution should be able to identify consecutive months when the sales are at the highest when a different dataset is used.   
-c. Write the pseudocode and explain the algorithm using O(N) notation.
+
+c. Write the pseudocode and explain the algorithm using O(N) notation.  
+
 d. What are the limitations of the solution you proposed in part a?  
 
 ## Submission?  
