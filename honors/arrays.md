@@ -22,9 +22,9 @@ The manager plans to run an advertising campaign for the products offered by the
 
 a. Explain how you are going to solve the problem mentioned above. No coding or pseudocode is needed in this step.  
 
-b. Implement the solution that you proposed in part a. Furthermore, the implemented solution should be able to identify consecutive months when the sales are at the highest when a different dataset is used.   
+b. Implement the solution that you proposed in part a. Furthermore, the implemented solution should be able to identify consecutive months when the sales are at the highest when a different dataset is used. C++ code is needed.   
 
-c. Write the pseudocode and explain the algorithm using O(N) notation.  
+c. Write the pseudocode and explain the algorithm using O(N) notation. No coding is needed in this step.  
 
 d. What are the limitations of the solution you proposed in part a?  
 
