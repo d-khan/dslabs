@@ -8,6 +8,16 @@ You are a data analyst for a company that sells residential computers. The manag
 | Jan | 100|
 | Feb | 113 |
 | Mar | 110 |
+| Apr | 85 |
+| May | 81 |
+| Jun | 101 |
+| Jul | 94 |
+| Aug | 106 |
+| Sep | 105|
+| Oct | 102 |
+| Nov | 86 |
+| Dec | 63 |
+
 
 
 ## What to submit?  
