@@ -4,6 +4,10 @@
 
 This course is about learning data structures and their implementation. The emphasis is placed on implementing basic data structures such as stacks, heaps, queues, lists, linked lists, arrays, trees, hash tables, sorting, searching, etc., using C++ programming language. This course is designed for students majoring in computer information systems and computer science professionals who want to update their programming skills.
 
+The students enrolled in the Honors Contract are expected to do independent research, extra assignments, and 1:1 meetings with the professor. The student will be involved in Work-Based Learning activities in which students get in touch with career services, improve resume writing and interviewing skills, and get in touch with professionals in the relevant field.
+
+You can find more information about the Honors Contract [here](https://sdmiramar.edu/services/honors).
+
 ## Student learning outcomes
 - Demonstrate an ability to successfully follow a specification. Measurement Method: Development of classroom projects.  
 - Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments.
