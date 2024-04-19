@@ -1,6 +1,6 @@
 # Performance evaluation
 
-a) Use 100M, 200M, and 300M elements of the same data type to compare arrays
+a) Use 100, 200, and 300 Million elements of the same data type to compare arrays
 and linked-lists performances using C++. You might have to use profiling. 
 Please research how to profile a code in C++. Evaluate the performance in terms of time and space.
 
@@ -16,6 +16,7 @@ for (int i = 0; i < authorsList.size(); i++) {
             authorName = authorsList.get(i);
             System.out.println(authorName);
         }
+
 while (listIterator.hasNext()) {
             authorName = listIterator.next();
             System.out.println(authorName);
@@ -23,8 +24,8 @@ while (listIterator.hasNext()) {
 
 ```
 
-Compare both the iterators and observe the performance. The performance is in terms of time.
-
-The profiling code/engine itself has an overhead on the code you are evaluating. Make sure you include this when evaluating the performance.
-
-The documentation of parts a and b together should not exceed two pages. Use graphs where applicable and explain the findings in a clear manner.
+Compare both the iterators and observe the performance. The performance is in terms 
+of time. The profiling code/engine itself has an overhead on the code you are evaluating. 
+Make sure you include this when evaluating the performance.
+The documentation of parts a and b together should not exceed two pages. 
+Use graphs where applicable and explain the findings in a clear manner.
