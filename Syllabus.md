@@ -60,16 +60,16 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |5  |16 Sep |Hash tables | Understand the working of hash algorithms | 21 Sep |
 |6  |23 Sep  |Stacks and Queues | Perform operations on stacks and queues| 28 Sep |
 |7  |30 Sep |Linked lists | Implement single-ended linked list | 5 Oct |
-|8  |7 Oct|Binary search trees | Understand the working of BST and perform insert and delete operations | 23 Mar |
-|||__Spring break (25 - 29 Mar) - No classes__|
-|9  |1 Apr  |Binary heaps|  Problem-solving activity on binary heap | 6 Apr |
-|10 |8 Apr |Graphs I| Implement breadth-first and depth-first algorithms | 20 Apr |
-|11 |15 Apr |Graphs II | Problem solving activity on Dijkstra's algorithm | 20 Apr |
-|12 |22 Apr |Recursion | Problem solving activity on recursions | 27 Apr |
-|13 |29 Apr  |Space constraints | Evaluate space complexity algorithms | May 4 |
-|14 |6 May  |Project work| | |
-|15 |13 May |Project work |  | May 18|
-|16 |20 May |__Final exam on Fri 24 May__ | |
+|8  |7 Oct|Binary search trees | Understand the working of BST and perform insert and delete operations | 12 Oct |
+|9  |14 Oct |Binary heaps|  Problem-solving activity on binary heap | 19 Oct |
+|10 |21 Oct |Graphs I| Implement breadth-first and depth-first algorithms | 26 Oct |
+|11 |28 Oct |Graphs II | Problem solving activity on Dijkstra's algorithm | 2 Nov |
+|12 |4 Nov |Recursion | Problem solving activity on recursions | 9 Nov |
+|13 |11 Nov |Space constraints | Evaluate space complexity algorithms | 16 Nov |
+|14 |18 Nov |Project work| | |
+|||__Thanksgiving week (25 Nov - 1 Dec) - No classes__|
+|15 |2 Dec |Project work |  | 7 Dec |
+|16 |9 Dec |__Final exam on Mon 9 Dec__ | |
 
 ## Textbook
 
@@ -112,7 +112,7 @@ Be sure to begin your work before the due date. The late work is deducted 25% wh
 Any work submitted past 24 hours of the due date will be graded 0.
 
 ## Attendance/Absences
-
+**Please note that regularly logging into the course is mandatory to avoid dropping or withdrawing from the course**.
 -  It is the student’s responsibility to drop all classes in which they are no longer participating/attending.
 -  It is the instructor’s discretion to withdraw a student after the add/drop deadline due to excessive absences.
 - __(For online classes):__ Students who have not logged into the course for three days before the add/drop deadline will be dropped for non-attendance. 
