@@ -13,33 +13,35 @@ This course is about learning data structures and their implementation. The emph
 |<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-187 Data Structures in C++|
-|   Year                        |   Spring 2024|
-|   Class ID                    |   54187|
+|   Year                        |   Fall 2024|
+|   Class ID                    |   74124|
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Jan 29 – May 25 (16 weeks)|
+|   Duration                    |   Aug 19 – Dec 16 (16 weeks)|
 |   Professor                   |   Dr Danish Khan|
-|   Office hours                |   Mon, Tue, Wed & Thu 12:35-1:00 pm (Room M-103)|
-|                               |   Mon & Wed 8:30 - 9:30 am in Zoom (Meeting ID: 835 8008 1648)|
+|   Office hours                |   Mon & Wed 12:35 - 1:35 pm (Room M-110)|   
+|                               |   Tue & Thu 12:35 - 1:35 pm (Room M-103)|
+|                               |   Mon 8:00 - 9:00 am in Zoom (Meeting ID: 835 8008 1648)|
 |   Contact                     |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 
 ## Important dates/deadline
 
 |<div style="width500:px"></div> ||
 |:----------------------|:--------------|
-|29 Jan                 |   Spring 2024 16-Week Session Begins |
-|9 Feb                  |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
+|19 Aug                 |   Fall 2024 16-Week Session Begins |
+|30 Aug                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
 |                       |   __Student Drop:__ Deadline to drop class with no "W" recorded. |
 |                       |   __Refund Date:__ Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.|
-|12 Feb                 |   __Instructor Drop/Census:__ All drops must be submitted by Noon
-|16-19 Feb              |   __President's Weekend (CAMPUS CLOSED)__ |
-|25-29 Mar              |   __Spring Break__
-|29 Mar                 |   __Cesar Chavez Day (CAMPUS CLOSED)__
-|12 Apr                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
-|25 May                 |   Session end|
-|27 May                 |   __Memorial Day (CAMPUS CLOSED)__ |
-|31 May                 |   __Grades:__ Deadline for instructors to submit final grades|
+|2 Sep                  |   __Labor Day (CAMPUS CLOSED)__ |
+|3 Sep                  |   __Instructor Drop/Census:__ All drops must be submitted by Noon
+|25 Oct                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
+|11 Nov                 |   __Veterans Day (CAMPUS CLOSED)__ |
+|25 Nov - 1 Dec         |   __Thanksgiving (NO CLASSES)__ |
+|16 Dec                 |   __Session end__|
+|3 Jan 2025             |   __Grades:__ Deadline for instructors to submit final grades|
+
+Please visit the [district website](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx) to learn more about the deadlines.
 
 ## Instructor communication policy
 
@@ -51,14 +53,14 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |29 Jan |Introduction to Data Structures and Algorithms | Operation on Arrays | 3 Feb |
-|2  |5 Feb  |Searching and Big O Notation | Implement linear and binary search algorithms | 10 Feb |
-|3  |12 Feb |Sorting Algorithms I | Time complexity of sorting algorithms | 17 Feb |
-|4  |19 Feb |Sorting Algorithms II | Understand the working of insertion sort algorithm | 24 Feb |
-|5  |26 Feb |Hash tables | Understand the working of hash algorithms | 2 Mar|
-|6  |4 Mar  |Stacks and Queues | Perform operations on stacks and queues| 9 Mar |
-|7  |11 Mar |Linked lists | Implement single-ended linked list | 16 Mar |
-|8  |18 Mar|Binary search trees | Understand the working of BST and perform insert and delete operations | 23 Mar |
+|1  |19 Aug |Introduction to Data Structures and Algorithms | Operation on Arrays | 24 Aug |
+|2  |26 Aug |Searching and Big O Notation | Implement linear and binary search algorithms | 31 Aug |
+|3  |2 Sep  |Sorting Algorithms I | Time complexity of sorting algorithms | 7 Sep |
+|4  |9 Sep |Sorting Algorithms II | Understand the working of insertion sort algorithm | 14 Sep |
+|5  |16 Sep |Hash tables | Understand the working of hash algorithms | 21 Sep |
+|6  |23 Sep  |Stacks and Queues | Perform operations on stacks and queues| 28 Sep |
+|7  |30 Sep |Linked lists | Implement single-ended linked list | 5 Oct |
+|8  |7 Oct|Binary search trees | Understand the working of BST and perform insert and delete operations | 23 Mar |
 |||__Spring break (25 - 29 Mar) - No classes__|
 |9  |1 Apr  |Binary heaps|  Problem-solving activity on binary heap | 6 Apr |
 |10 |8 Apr |Graphs I| Implement breadth-first and depth-first algorithms | 20 Apr |
