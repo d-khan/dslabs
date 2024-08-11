@@ -31,6 +31,6 @@ Select the **horizontal lines next to the course name -> Home -> Welcome to the 
 Review the course [Course Syllabus](https://github.com/d-khan/dslabs/blob/main/Syllabus.md) to learn about the course, important dates/deadlines, schedule, textbook, etc.
 
 ## 5. Attendance
-Please note that in-person class attendance is mandatory to avoid dropping or withdrawing from the course. Please check with me if your attendance conflicts with your other commitments. 
+Please note that regular login to Canvas and submitting assignments on time are mandatory to avoid dropping or withdrawing from the course. Please check with me if your attendance conflicts with your other commitments. 
 ___
 **End of message**
