@@ -31,6 +31,6 @@ Select the **horizontal lines next to the course name -> Home -> Welcome to the 
 Review the course [Course Syllabus](https://github.com/d-khan/dslabs/blob/main/Syllabus.md) to learn about the course, important dates/deadlines, schedule, textbook, etc.
 
 ## 5. How will my class be conducted?
-**Fully online:** All classwork is conducted online through Canvas without a requirement for real-time/live meetings. However, regular login to Canvas and submitting assignments on time are mandatory to avoid dropping or withdrawing from the course. Please check with me if your attendance conflicts with your other commitments. 
+**Fully online:** All classwork is conducted online through Canvas without a requirement for real-time/live meetings. However, regular login to Canvas and submitting assignments on time are mandatory to avoid dropping or withdrawing from the course.
 ___
 **End of message**
