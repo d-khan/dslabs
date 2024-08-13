@@ -1,4 +1,5 @@
-# The course start date is Monday, Aug 19, 2024 (12:00 am PST)
+# <div align="center"> The course will be available in Canvas on Monday, Aug 19, 2024 (12:00 am PST) </div> 
+> **This is an online asynchronous class**
 
 ## Welcome to CISC 187 Data Structures in C++ course
 
