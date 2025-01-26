@@ -54,22 +54,22 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |3 Feb  |Introduction to Data Structures and Algorithms | Operation on Arrays | 24 Aug |
-|2  |10 Feb |Searching and Big O Notation | Implement linear and binary search algorithms | 31 Aug |
-|3  |17 Feb |Sorting Algorithms I | Time complexity of sorting algorithms | 7 Sep |
-|4  |24 Feb |Sorting Algorithms II | Understand the working of insertion sort algorithm | 14 Sep |
-|5  |3 Mar |Hash tables | Understand the working of hash algorithms | 21 Sep |
-|6  |10 Mar  |Stacks and Queues | Perform operations on stacks and queues| 28 Sep |
-|7  |17 Mar |Linked lists | Implement single-ended linked list | 5 Oct |
-|8  |24 Mar |Binary search trees | Understand the working of BST and perform insert and delete operations | 12 Oct |
+|1  |3 Feb  |Introduction to Data Structures and Algorithms | Operation on Arrays | 9 Feb |
+|2  |10 Feb |Searching and Big O Notation | Implement linear and binary search algorithms | 16 Feb |
+|3  |17 Feb |Sorting Algorithms I | Time complexity of sorting algorithms | 23 Feb |
+|4  |24 Feb |Sorting Algorithms II | Understand the working of insertion sort algorithm | 2 Mar |
+|5  |3 Mar |Hash tables | Understand the working of hash algorithms | 9 Mar |
+|6  |10 Mar  |Stacks and Queues | Perform operations on stacks and queues| 16 Mar |
+|7  |17 Mar |Linked lists | Implement single-ended linked list | 23 Mar |
+|8  |24 Mar |Binary search trees | Understand the working of BST and perform insert and delete operations | 30 Oct |
 |||__Spring break (31 Mar - 4 May) - No classes__|
-|9  |7 Apr |Binary heaps|  Problem-solving activity on binary heap | 19 Oct |
-|10 |14 Apr |Graphs I| Implement breadth-first and depth-first algorithms | 26 Oct |
-|11 |21 Apr |Graphs II | Problem solving activity on Dijkstra's algorithm | 2 Nov |
-|12 |28 Apr |Recursion | Problem solving activity on recursions | 9 Nov |
-|13 |5 May |Space constraints | Evaluate space complexity algorithms | 16 Nov |
+|9  |7 Apr |Binary heaps|  Problem-solving activity on binary heap | 13 Apr |
+|10 |14 Apr |Graphs I| Implement breadth-first and depth-first algorithms | 20 Apr |
+|11 |21 Apr |Graphs II | Problem solving activity on Dijkstra's algorithm | 27 Apr |
+|12 |28 Apr |Recursion | Problem solving activity on recursions | 4 May |
+|13 |5 May |Space constraints | Evaluate space complexity algorithms | 11 May |
 |14 |12 May |Project work| | |
-|15 |18 May |Project work |  | 7 Dec |
+|15 |19 May |Project work |  | 25 May |
 |16 |26 May |__Final exam on Tue 27 May__ | |
 
 ## Textbook
