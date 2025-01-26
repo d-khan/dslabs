@@ -9,43 +9,44 @@ The students enrolled in the Honors Contract are expected to do independent rese
 You can find more information about the Honors Contract [here](https://sdmiramar.edu/services/honors).
 
 ## Student learning outcomes
-- Demonstrate an ability to successfully follow a specification. Measurement Method: Development of classroom projects.  
-- Demonstrate an ability to successfully create electronic documents. Measurement Method: Performance on homework assignments.
+- Apply algorithmic and mathematical reasoning to solve a wide range of computational problems.  
+- Analyze and evaluate alternative solutions to computing problems using a programming language.
+- Use current tools in computing practice such as Integrated Development Environments and Code Sharing platforms.
 
 ## Course information
 
 |<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-187 Data Structures in C++|
-|   Year                        |   Fall 2024|
-|   Class ID                    |   74124|
+|   Year                        |   Spring 2025|
+|   Class ID                    |   84135|
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Aug 19 – Dec 16 (16 weeks)|
+|   Duration                    |   Feb 3 – Jun 2 (16 weeks)|
 |   Professor                   |   Dr Danish Khan|
-|   Office hours                |   Mon & Wed 12:35 - 1:35 pm (Room M-110)|   
-|                               |   Tue & Thu 12:35 - 1:35 pm (Room M-103)|
-|                               |   Mon 6:00 - 7:00 pm in Zoom (https://sdccd-edu.zoom.us/j/84358409903)|
+|   Office hours                |   Mon 9:00 am - 11:00 am in Zoom (https://sdccd-edu.zoom.us/j/81215489501) or in-person (Room M-107P) |
+|                               |   Mon 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/89694884444) or in-person (Room M-107P) |
 |   Contact                     |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 
 ## Important dates/deadline
 
 |<div style="width500:px"></div> ||
 |:----------------------|:--------------|
-|19 Aug                 |   Fall 2024 16-Week Session Begins |
-|30 Aug                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
+|3 Feb                  |   Spring 2025 16-Week Session Begins |
+|14 Feb                 |   __Student Add:__ Deadline to add class with Permission Number and pay Enrollment Fee &/or all applicable fees. |
 |                       |   __Student Drop:__ Deadline to drop class with no "W" recorded. |
 |                       |   __Refund Date:__ Deadline to drop classes and be eligible for refund of Enrollment Fee and/or all applicable fees.|
-|2 Sep                  |   __Labor Day (CAMPUS CLOSED)__ |
-|3 Sep                  |   __Instructor Drop/Census:__ All drops must be submitted by Noon
-|25 Oct                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
-|11 Nov                 |   __Veterans Day (CAMPUS CLOSED)__ |
-|25 Nov - 1 Dec         |   __Thanksgiving (NO CLASSES)__ |
-|16 Dec                 |   __Session end__|
-|3 Jan 2025             |   __Grades:__ Deadline for instructors to submit final grades|
+|18 Feb                 |   __Instructor Drop/Census:__ All drops must be submitted by Noon
+|31 Mar - 4 Apr         |   __Spring break (NO CLASSES)__ |
+|4 Apr                  |   __Cesar Chavez Day (COLLEGE CLOSED__ |
+|18 Apr                 |   __Withdraw:__ Last day to withdraw from classes and receive a "W". No drops accepted after this date. Thereafter, a student must receive a letter grade.|
+|26 May                 |   __Memorial Day (COLLEGE CLOSED)__ |
+|2 Jun                  |   __Session end__|
+|9 Jun                  |   __Grades:__ Deadline for instructors to submit final grades|
+|13 Jun                 |   __Spring grades available__|
 
-Please visit the [district website](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx) to learn more about the deadlines.
+Please visit the [Academic Semester Calendars and Key Dates](https://www.sdccd.edu/students/dates-and-deadlines/index.aspx) to learn more about the Spring 2025 deadlines.
 
 ## Instructor communication policy
 
@@ -57,23 +58,23 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |19 Aug |Introduction to Data Structures and Algorithms | Operation on Arrays | 24 Aug |
-|2  |26 Aug |Searching and Big O Notation | Implement linear and binary search algorithms | 31 Aug |
-|3  |2 Sep  |Sorting Algorithms I | Time complexity of sorting algorithms | 7 Sep |
-|4  |9 Sep |Sorting Algorithms II | Understand the working of insertion sort algorithm | 14 Sep |
-|5  |16 Sep |Hash tables | Understand the working of hash algorithms | 21 Sep |
-|6  |23 Sep  |Stacks and Queues | Perform operations on stacks and queues| 28 Sep |
-|7  |30 Sep |Linked lists | Implement single-ended linked list | 5 Oct |
-|8  |7 Oct|Binary search trees | Understand the working of BST and perform insert and delete operations | 12 Oct |
-|9  |14 Oct |Binary heaps|  Problem-solving activity on binary heap | 19 Oct |
-|10 |21 Oct |Graphs I| Implement breadth-first and depth-first algorithms | 26 Oct |
-|11 |28 Oct |Graphs II | Problem solving activity on Dijkstra's algorithm | 2 Nov |
-|12 |4 Nov |Recursion | Problem solving activity on recursions | 9 Nov |
-|13 |11 Nov |Space constraints | Evaluate space complexity algorithms | 16 Nov |
-|14 |18 Nov |Project work| | |
-|||__Thanksgiving week (25 Nov - 1 Dec) - No classes__|
-|15 |2 Dec |Project work |  | 7 Dec |
-|16 |9 Dec |__Final exam on Mon 9 Dec__ | |
+|1  |3 Feb  |Introduction to Data Structures and Algorithms | Operation on Arrays | 9 Feb |
+|2  |10 Feb |Searching and Big O Notation | Implement linear and binary search algorithms | 16 Feb |
+|3  |17 Feb |Sorting Algorithms I | Time complexity of sorting algorithms | 23 Feb |
+|4  |24 Feb |Sorting Algorithms II | Understand the working of insertion sort algorithm | 2 Mar |
+|5  |3 Mar |Hash tables | Understand the working of hash algorithms | 9 Mar |
+|6  |10 Mar  |Stacks and Queues | Perform operations on stacks and queues| 16 Mar |
+|7  |17 Mar |Linked lists | Implement single-ended linked list | 23 Mar |
+|8  |24 Mar |Binary search trees | Understand the working of BST and perform insert and delete operations | 30 Oct |
+|||__Spring break (31 Mar - 4 May) - No classes__|
+|9  |7 Apr |Binary heaps|  Problem-solving activity on binary heap | 13 Apr |
+|10 |14 Apr |Graphs I| Implement breadth-first and depth-first algorithms | 20 Apr |
+|11 |21 Apr |Graphs II | Problem solving activity on Dijkstra's algorithm | 27 Apr |
+|12 |28 Apr |Recursion | Problem solving activity on recursions | 4 May |
+|13 |5 May |Space constraints | Evaluate space complexity algorithms | 11 May |
+|14 |12 May |Project work| | |
+|15 |19 May |Project work |  | 25 May |
+|16 |26 May |__Final exam on Tue 27 May__ | |
 
 ## Textbook
 
@@ -158,4 +159,4 @@ You are encouraged to bring reusable drink containers to school (and fill them a
 Thank you for doing your part to conserve resources in your academic life and keeping our campus environment clean.   
 
 ____
-Last updated on Aug 2024
+Last updated on Jan 2025
