@@ -65,7 +65,7 @@ If I have not responded to your message within 24 hours, Monday through Friday, 
 |5  |3 Mar |Hash tables | Understand the working of hash algorithms | 9 Mar |
 |6  |10 Mar  |Stacks and Queues | Perform operations on stacks and queues| 16 Mar |
 |7  |17 Mar |Linked lists | Implement single-ended linked list | 23 Mar |
-|8  |24 Mar |Binary search trees | Understand the working of BST and perform insert and delete operations | 30 Oct |
+|8  |24 Mar |Binary search trees | Understand the working of BST and perform insert and delete operations | 30 Mar |
 |||__Spring break (31 Mar - 4 May) - No classes__|
 |9  |7 Apr |Binary heaps|  Problem-solving activity on binary heap | 13 Apr |
 |10 |14 Apr |Graphs I| Implement breadth-first and depth-first algorithms | 20 Apr |
