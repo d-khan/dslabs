@@ -1,5 +1,10 @@
 # Syllabus (CISC-187 Data Structures in C++)
 
+## Welcome to the course!
+My name is Dr Danish Khan and I am looking forward to starting this educational journey with each of you! Together, we will build a constructive and inclusive environment where everyone's ideas are welcomed and appreciated. Your contributions will greatly enrich our classroom community, and I am eager to learn more about each of you. Let’s focus on making this school year a valuable experience filled with growth, learning, and positive memories!
+
+> ___A person who never made a mistake never tried anything new.___ (Albert Einstein)
+
 ## Course description
 
 This course is about learning data structures and their implementation. The emphasis is placed on implementing basic data structures such as stacks, heaps, queues, lists, linked lists, arrays, trees, hash tables, sorting, searching, etc., using C++ programming language. This course is designed for students majoring in computer information systems and computer science professionals who want to update their programming skills.
