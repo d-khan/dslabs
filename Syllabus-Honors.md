@@ -59,10 +59,9 @@ You can find more information about the Honors Contract [here](https://sdmiramar
 ## Textbook
 
 I recommend following my notes and resources provided on the course site in Canvas. The following resources are for your reference only.
-1. Drozdek, Adam. Data Structures and Algorithms in C++, 4th ed. Cengage Learning, 2012, ISBN: 9781133608424
-2. Gaddis, Tony. Starting Out With C++ From Control Structures through Objects, 9th ed. Pearson, 2018, ISBN: 9780134498379
-3. Gaddis, Tony et al. Starting Out with C++: Early Objects, 10th ed. Pearson, 2019, ISBN: 9780135862391
-4. Stroustrup, Bjarne. The C++ Programming Language, 4th ed. Addison-Wesley 2013, ISBN: 9780321563842
+1. Sedgewick, Robert. Algorithms, 4th ed. Addison-Wesley Professional, 2011, ISBN: 032157351X
+2. Mark A. Weiss. Data Structures and Algorithm Analysis in C++, 4th ed. Mark A. Weiss, 2013, ISBN: 0273769383
+
 
 ## Software and hardware resources
 
