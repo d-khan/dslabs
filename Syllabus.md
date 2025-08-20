@@ -1,7 +1,7 @@
 # Syllabus (CISC-187 Data Structures in C++)
 
 ## Welcome to the course!
-My name is Dr Danish Khan and I am looking forward to starting this educational journey with each of you! Together, we will build a constructive and inclusive environment where everyone's ideas are welcomed and appreciated. Your contributions will greatly enrich our classroom community, and I am eager to learn more about each of you. Let’s focus on making this school year a valuable experience filled with growth, learning, and positive memories!
+My name is Dr. Danish Khan, and I am excited to begin this educational journey with all of you! Together, we will create a supportive and inclusive environment where everyone’s ideas are valued and respected. Your active participation will enrich our learning community, and I look forward to getting to know each of you. Let’s make this school year a meaningful experience filled with growth, learning, and lasting positive memories!
 
 > ___A person who never made a mistake never tried anything new.___ (Albert Einstein)
 
@@ -16,15 +16,14 @@ This course is about learning data structures and their implementation. The emph
 |<div style="width:100px"></div> |                |
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-187 Data Structures in C++|
-|   Year                        |   Spring 2025|
-|   Class ID                    |   84135|
+|   Year                        |   Fall 2025|
+|   Class ID                    |   12176|
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
-|   Duration                    |   Feb 3 – Jun 2 (16 weeks)|
+|   Duration                    |   Aug 25 – Dec 20 (16 weeks)|
 |   Professor                   |   Dr Danish Khan|
-|   Office hours                |   Mon 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/89694884444) or in-person (Room M-107P) |
-|                               |   Tue 12:30 pm - 2:30 pm in Zoom (https://sdccd-edu.zoom.us/j/81215489501) or in-person (Room M-107P) |
+|   Office hours                |   Mon 11:00 am - 3:00 pm in Zoom (https://sdccd-edu.zoom.us/j/81092343678) or in-person (Room M-107P) |
 |   Contact                     |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 
 ## [Important dates/deadline](https://github.com/d-khan/sdccd/blob/main/dates-deadline.md)
@@ -35,23 +34,23 @@ This course is about learning data structures and their implementation. The emph
 
 |Week|<div style="width:75px">Week commence from Monday </div>|Topics | Hands-on activities | Deadlines|
 |-|--|--|---|----|
-|1  |3 Feb  |Introduction to Data Structures and Algorithms | Operation on Arrays | 9 Feb |
-|2  |10 Feb |Searching and Big O Notation | Implement linear and binary search algorithms | 16 Feb |
-|3  |17 Feb |Sorting Algorithms I | Time complexity of sorting algorithms | 23 Feb |
-|4  |24 Feb |Sorting Algorithms II | Understand the working of insertion sort algorithm | 2 Mar |
-|5  |3 Mar |Hash tables | Understand the working of hash algorithms | 9 Mar |
-|6  |10 Mar  |Stacks and Queues | Perform operations on stacks and queues| 16 Mar |
-|7  |17 Mar |Linked lists | Implement single-ended linked list | 23 Mar |
-|8  |24 Mar |Binary search trees | Understand the working of BST and perform insert and delete operations | 30 Mar |
-|||__Spring break (31 Mar - 4 May) - No classes__|
-|9  |7 Apr |Binary heaps|  Problem-solving activity on binary heap | 13 Apr |
-|10 |14 Apr |Graphs I| Implement breadth-first and depth-first algorithms | 20 Apr |
-|11 |21 Apr |Graphs II | Problem solving activity on Dijkstra's algorithm | 27 Apr |
-|12 |28 Apr |Recursion | Problem solving activity on recursions | 4 May |
-|13 |5 May |Space constraints | Evaluate space complexity algorithms | 11 May |
-|14 |12 May |Project work| | |
-|15 |19 May |Project work |  | 25 May |
-|16 |26 May |__Final exam on Tue 27 May__ | |
+|1  |25 Aug  |Introduction to Data Structures and Algorithms | Operation on Arrays | 31 Aug|
+|2  |1 Sep|Searching and Big O Notation | Implement linear and binary search algorithms | 7 Sep |
+|3  |8 Sep |Sorting Algorithms I | Time complexity of sorting algorithms | 14 Sep |
+|4  |15 Sep |Sorting Algorithms II | Understand the working of insertion sort algorithm | 21 Sep |
+|5  |22 Sep |Hash tables | Understand the working of hash algorithms | 28 Sep |
+|6  |29 Sep  |Stacks and Queues | Perform operations on stacks and queues| 5 Oct |
+|7  |6 Oct |Linked lists | Implement single-ended linked list | 12 Oct |
+|8  |13 Oct |Binary search trees | Understand the working of BST and perform insert and delete operations | 19 Oct |
+|9  |20 Oct |Binary heaps|  Problem-solving activity on binary heap | 26 Oct |
+|10 |27 Oct |Graphs I| Implement breadth-first and depth-first algorithms | 2 Nov |
+|11 |3 Nov |Graphs II | Problem solving activity on Dijkstra's algorithm | 9 Nov|
+|12 |10 Nov |Recursion | Problem solving activity on recursions | 16 Nov |
+|13 |17 Nov |Space constraints | Evaluate space complexity algorithms | 23 Nov |
+|||__Thanksgiving break (24 - 30 Nov) - No classes__|
+|14 |1 Dec |Project work| | |
+|15 |8 Dec |Project work |  | 14 Dec |
+|16 |15 Dec |__Final exam on Mon 15 Dec__ | |
 
 ## Textbook
 
@@ -83,15 +82,17 @@ I recommend following my notes and resources provided on the course site in Canv
 
 ## [Attendance/Absences](https://github.com/d-khan/sdccd/blob/main/attendance.md)
 
-## [Accommodating Students with Disabilities](https://github.com/d-khan/sdccd/blob/main/dsps.md)
-
-## [Undocumented & Immigrant Student Services](https://github.com/d-khan/sdccd/blob/main/undocumented-immigration.md)
+## [Use of Artificial Intelligence Tools](https://github.com/d-khan/sdccd/blob/main/use_of_AI.md)
 
 ## [Cheating/Plagiarism](https://github.com/d-khan/sdccd/blob/main/cheating.md)
 
 ## [Honest Academic Conduct](https://github.com/d-khan/sdccd/blob/main/honest-academic.md)
 
+## [Accommodating Students with Disabilities](https://github.com/d-khan/sdccd/blob/main/dsps.md)
+
+## [Undocumented & Immigrant Student Services](https://github.com/d-khan/sdccd/blob/main/undocumented-immigration.md)
+
 ## [Sustainability](https://github.com/d-khan/sdccd/blob/main/sustainability.md)
 
 ____
-Last updated on Jan 2025
+Last updated on Aug 2025
