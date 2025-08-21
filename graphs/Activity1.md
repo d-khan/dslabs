@@ -11,12 +11,9 @@ Review [Graphs](https://htmlpreview.github.io/?https://github.com/d-khan/dslabs/
 2. Implement the graph created in step 1 and apply breadth and depth-first search algorithms using C++. **(6 points)**
 3. Compare both search algorithms in the context of Big O notations. **(2 points)**
 
-## What to submit?  
-- Save the explanation in .txt format and upload it in Canvas.
-- Create a video that explains your solution. Furthermore, the video should show your face on one side of the screen (preferably the top or bottom right of the screen). 
-
-## How to submit it?
-- Upload your work in Canvas. Remember .txt file formats are for narrative-based responses, and .cpp is for C++ code. Clearly define task numbers. __Do not compress files. Do not zip. Use mp4 format for the videos__
+## What/how to submit?  
+- Write your responses in a markdown file along with the code, upload the file to GitHub, and submit the GitHub link in Canvas. Use **appropriate headings to differentiate tasks**. Please review the guide “[Submitting Your Assignment Using GitHub](https://sdccd-edu.zoom.us/rec/play/SVjSkOJp16n_7ii-oRt1-9auud9NZ0NrhuXrnJYf-bcQP5ipZbGONd6Jxt7h1jns5OJKIq9lgjAuBw.Tc2b6f-qrSDM8aye?eagerLoadZvaPages=sidemenu.billing.plan_management&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&startTime=1725121532000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fsdccd-edu.zoom.us%2Frec%2Fshare%2FSVvlngcEn-7CaNI8FvwEVJ5ulLp4sxpqN9hnCYvXeHHcls2e0TBlU47uATNklUf-.yX4fsJjsU2nuLGeX%3FstartTime%3D1725121532000)” before submission.
+- Create a video explaining the functionality of your code along with your explanations. The video should also display your face on one side of the screen, preferably in the top-right or bottom-right corner. 
 
 ## Deadline
 The deadlines are posted on the Syllabus as well as on Canvas.
