@@ -20,7 +20,7 @@ Review "Why learn structures" from the book [Data Structures in C++](https://d-k
 5. Research how to find the memory address of an array. You can use any programming language of your choice. (requires code) **1 pts**
 
 ## What/how to submit?  
-- Write your responses in a markdown file along with the code, upload the file to GitHub, and submit the GitHub link in Canvas. Use **appropriate headings to differentiate tasks**. Please review the guide “Submitting Your Assignment Using GitHub” before submission. Please use headings to 
+- Write your responses in a markdown file along with the code, upload the file to GitHub, and submit the GitHub link in Canvas. Use **appropriate headings to differentiate tasks**. Please review the guide “Submitting Your Assignment Using GitHub” before submission.
 - Create a video explaining the functionality of your code along with your explanations. The video should also display your face on one side of the screen, preferably in the top-right or bottom-right corner. 
 
 
