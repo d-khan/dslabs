@@ -19,13 +19,10 @@ Review "Why learn structures" from the book [Data Structures in C++](https://d-k
 4. Normally the search operation in an array looks for the first instance of a given value. But sometimes we may want to look for every instance of a given value. For example, say we want to count how many times the value “apple” is found inside an array. How many steps would it take to find all the “apples”? Give your answer in terms of N. (theoretical) - **1 pts**
 5. Research how to find the memory address of an array. You can use any programming language of your choice. (requires code) **1 pts**
 
-## What to submit?  
-- All the explanation are saved as .txt format and upload in Canvas.
-- Code related responses are saved as .cpp and upload in Canvas.
-- Create a video that explains the working of the code and your explanations. Furthermore, the video should show your face on one side of the screen (preferably the top or bottom right of the screen). 
+## What/how to submit?  
+- Write your responses in a markdown file along with the code, upload the file to GitHub, and submit the GitHub link in Canvas. Use **appropriate headings to differentiate tasks**. Please review the guide “Submitting Your Assignment Using GitHub” before submission. Please use headings to 
+- Create a video explaining the functionality of your code along with your explanations. The video should also display your face on one side of the screen, preferably in the top-right or bottom-right corner. 
 
-## How to submit it?
-- Upload your work in Canvas. Remember .txt file formats are for narative based responses and .cpp is for C++ code. Clearly define task numbers.  
 
 ## Deadline
 The deadlines are posted on the Syllabus as well as on Canvas.
