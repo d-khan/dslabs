@@ -99,4 +99,4 @@ I recommend following my notes and resources provided on the course site in Canv
 ## [Sustainability](https://github.com/d-khan/sdccd/blob/main/sustainability.md)
 
 ____
-Last updated on Aug 2025
+Last updated on Jan 2026
