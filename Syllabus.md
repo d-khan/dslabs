@@ -59,7 +59,6 @@ I recommend following my notes and resources provided on the course site in Canv
 1. Sedgewick, Robert. Algorithms, 4th ed. Addison-Wesley Professional, 2011, ISBN: 032157351X
 2. Mark A. Weiss. Data Structures and Algorithm Analysis in C++, 4th ed. Mark A. Weiss, 2013, ISBN: 0273769383
 
-
 ## Software and hardware resources
 
 - Minimum Laptop/desktop requirements: Intel/AMD CPU, 4GB DDR3/4 generation RAM, 40+GB hard drive, 64-bit OS (Windows/OSX), Microphone, and high-speed Internet.
