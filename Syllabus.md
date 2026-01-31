@@ -70,9 +70,9 @@ I recommend following my notes and resources provided on the course site in Canv
 
 |Evaluation type|Out of 100|
 |:-|:-|
-|Weekly lab assignments|30|
+|Weekly lab assignments|20|
 |Discussions|20|
-|Project|30|
+|Projects|40|
 |Final exam|20|
 
 ## [Late/due work](https://github.com/d-khan/sdccd/blob/main/late_work.md)
