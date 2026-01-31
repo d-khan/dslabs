@@ -42,6 +42,7 @@ This course is about learning data structures and their implementation. The emph
 |6  |9 Mar  |Stacks and Queues | Perform operations on stacks and queues| 15 Mar |
 |7  |16 Mar |Linked lists | Implement single-ended linked list | 22 Mar |
 |8  |23 Mar |Binary search trees | Understand the working of BST and perform insert and delete operations | 29 Mar |
+|   |       |Project work |  | 29 Mar |
 |||__Spring break (30 Mar - 5 Apr) - No classes__|
 |9  |6 Apr |Binary heaps|  Problem-solving activity on binary heap | 12 Apr |
 |10 |13 Apr |Graphs I| Implement breadth-first and depth-first algorithms | 19 Apr |
