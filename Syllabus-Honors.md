@@ -29,7 +29,7 @@ You can find more information about the Honors Contract [here](https://sdmiramar
 |   Professor                   |   Dr Danish Khan|
 |   Office hours                |   Mon 11:00 - 1:30 pm in Zoom (https://sdccd-edu.zoom.us/j/84817871355) or in-person (Room M-107P) |
 |                               |   Wed 12:30 - 1:30 pm in Zoom (https://sdccd-edu.zoom.us/j/86264849566) or in-person (Room M-107p) |
-|                               |   Fri 6 - 7 pm in Zoom | (https://sdccd-edu.zoom.us/j/83958745889)
+|                               |   Fri 6 - 7 pm in Zoom | (https://sdccd-edu.zoom.us/j/83958745889) |
 |   Contact                     |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 
 ## [Important dates/deadline](https://github.com/d-khan/sdccd/blob/main/dates-deadline.md)
