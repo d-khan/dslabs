@@ -17,7 +17,7 @@ This course is about learning data structures and their implementation. The emph
 |-------------------------------|-------------------------------------------|
 |   Course name                 |   CISC-187 Data Structures in C++|
 |   Year                        |   Spring 2026|
-|   Class ID                    |   23856|
+|   Class ID                    |   23856/26324|
 |   Section                     |   3001|
 |   Location                    |   Online|
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
