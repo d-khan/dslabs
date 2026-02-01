@@ -23,9 +23,7 @@ This course is about learning data structures and their implementation. The emph
 |   Course resource             |   Course contents are available in Canvas <https://sdccd.instructure.com> |
 |   Duration                    |   Feb 2 – Jun 1 (16 weeks)|
 |   Professor                   |   Dr Danish Khan|
-|   Office hours                |   Mon 11:00 - 1:30 pm in Zoom (https://sdccd-edu.zoom.us/j/84817871355) or in-person (Room M-107P) |
-|                               |   Wed 12:30 - 1:30 pm in Zoom (https://sdccd-edu.zoom.us/j/86264849566) or in-person (Room M-107P) |
-|                               |   Fri 6 - 7 pm in Zoom (https://sdccd-edu.zoom.us/j/83958745889) |
+|   Office hours                |   See the list of [office hours](https://github.com/d-khan/sdccd/blob/main/office_hours.md)|
 |   Contact                     |   Room M-107P, Office phone: 619-388-7152, Email: dkhan@sdccd.edu|
 
 ## [Important dates/deadline](https://github.com/d-khan/sdccd/blob/main/dates-deadline.md)
