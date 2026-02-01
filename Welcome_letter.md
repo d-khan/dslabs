@@ -1,4 +1,4 @@
-# <div align="center"> The course will be available in Canvas on Monday, Aug 25, 2025 (12:00 am PST) </div> 
+# <div align="center"> The course will be available in Canvas on Monday, Feb 2, 2026 (12:00 am PST) </div> 
 > **This is an online asynchronous class**
 
 ## Welcome to CISC 187 Data Structures in C++ course
