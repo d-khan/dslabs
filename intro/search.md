@@ -29,6 +29,12 @@ Finally, compare and contrast the randomized search algorithm with linear search
 ## Deadline
 The deadlines are posted on the Syllabus as well as on Canvas.
 
+## Rubric for question 4
+| **Criteria**                 | **Description**                                              | **Points** |
+| ---------------------------- | ------------------------------------------------------------ | ---------- |
+| **Algorithm Implementation** | Correct implementation of both linear search and binary search on an array of 100,000 elements, including accurate step (comparison) counting | 1.0        |
+| **Complexity Analysis**      | Clear and correct theoretical justification using Big-O notation, explaining why linear search is O(N) and binary search is O(\log N) | 1.0        |
+
 ## Rubric for question 5
 | **Criteria**                      | **Description**                                              | **Points** |
 | --------------------------------- | ------------------------------------------------------------ | ---------- |
