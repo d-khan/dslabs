@@ -24,7 +24,7 @@ Finally, compare and contrast the randomized search algorithm with linear search
 
 ## What/how to submit?  
 - Write your responses in a markdown file along with the code, upload the file to GitHub, and submit the GitHub link in Canvas. Use **appropriate headings to differentiate tasks**. Please review the guide “[Submitting Your Assignment Using GitHub](https://www.youtube.com/watch?v=zjY-L71A9PE)” before submission.
-- Create a video explaining the functionality of your code along with your explanations. The video should also display your face on one side of the screen, preferably in the top-right or bottom-right corner. 
+- Create a video explaining the functionality of your code along with your explanations. The video should also display your face on one side of the screen, preferably in the top-right or bottom-right corner. Video is mandatory for the entire assignment.
 
 ## Deadline
 The deadlines are posted on the Syllabus as well as on Canvas.
