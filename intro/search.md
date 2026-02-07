@@ -29,7 +29,7 @@ Finally, compare and contrast the randomized search algorithm with linear search
 ## Deadline
 The deadlines are posted on the Syllabus as well as on Canvas.
 
-## Rubric for question 6
+## Rubric for question 5
 | **Criteria**                      | **Description**                                              | **Points** |
 | --------------------------------- | ------------------------------------------------------------ | ---------- |
 | **Pseudocode Correctness**        | Pseudocode clearly describes a randomized search without repetition and ensures each element is examined at most once | 1.0        |
