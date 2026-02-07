@@ -45,4 +45,5 @@ The deadlines are posted on the Syllabus as well as on Canvas.
 | **Comparison with Linear Search** | Accurate comparison in terms of time complexity, data requirements, and efficiency | 0.5        |
 | **Comparison with Binary Search** | Accurate comparison, including ordering requirements and practical implications |     0.5       |
 
-
+## Note
+Only one submission attempt is permitted for this lab. Students are not allowed to submit draft versions or request feedback for evaluation prior to the final submission. Please ensure that your work is complete, correct, and well-documented before submitting.
