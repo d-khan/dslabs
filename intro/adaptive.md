@@ -74,4 +74,3 @@ Your explanation should demonstrate a clear understanding of algorithmic behavio
 | Clear and reasonable threshold definition | 1 |
 | Quality of documentation and explanation of time complexity | 2 |
 
-**Total: 10 Points**
