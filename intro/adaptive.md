@@ -1,5 +1,14 @@
 # Programming Assignment: Adaptive Sorting Strategy
 
+
+
+The following are the O(N) notations of the following sorting algorithms.
+
+|                | Best case | Average case | Worst case |
+| -------------- | --------- | ------------ | ---------- |
+| Selection sort | $N^2$       | $N^2$          | $N^2$        |
+| Insertion sort | N           | $N^2$          | $N^2$        |
+
 ## Part A: Adaptive Sorting Selection
 
 1. Create an array of **50 integers**.
@@ -13,7 +22,7 @@
 
 ### Example:
 
-- If the array is **already sorted in ascending order** (or nearly sorted based on your defined threshold), your program should choose **Insertion Sort**, since Insertion Sort runs in linear time `O(n)` in the best case, whereas Selection Sort still performs `O(n^2)` comparisons regardless of input order.
+- If the array is **already sorted in ascending order** (or nearly sorted based on your defined threshold), your program should choose **Insertion Sort**, since Insertion Sort runs in linear time `O(n)` in the best case, whereas Selection Sort still performs $O(n^2)$ comparisons regardless of input order.
 
 - If the array is in **strictly descending order** and the goal is to sort in ascending order, your program may decide to use **Selection Sort**, assuming under your defined threshold that it performs more consistently than Insertion Sort in this scenario.
 
