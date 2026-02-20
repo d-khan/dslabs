@@ -59,6 +59,11 @@ Your explanation should demonstrate a clear understanding of algorithmic behavio
 
 ---
 
+**Submit your work on GitHub as a single Markdown file and share the repository link. Use clear and appropriate headings to organize your content.
+**
+
+---
+
 # Grading Rubric (Total: 10 Points)
 
 | Criteria | Points |
