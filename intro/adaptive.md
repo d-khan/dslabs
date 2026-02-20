@@ -3,6 +3,8 @@
 ## Objective
 The objective of this assignment is to analyze how input order affects sorting algorithm performance and to apply that analysis to make an adaptive algorithmic decision. 
 
+---
+
 The following are the O(N) notations of the following sorting algorithms.
 
 |                | Best case | Average case | Worst case |
