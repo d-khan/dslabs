@@ -19,8 +19,8 @@ a comparison is A[j] > key
 
 a shift is A[j+1] = A[j]
 
-a) Start the algorithm at i = 1. Verify the total operations = 20.
-b) Start the algorithm at i = 2, then i = 3. Count operations again.
+a) Start the algorithm at i = 1. Verify the total operations = 20.  
+b) Start the algorithm at i = 2, then i = 3. Count operations again.  
 c) For (b), does the algorithm still sort the entire array? Explain.     **4 pts**
 
 3. The following function returns whether or not a capital “X” is present within a string.  **4 pt**
