@@ -9,7 +9,19 @@ Review "Sorting algorithms" from the book [Data Structures in C++](https://d-kha
 ## Task
 1. Proof that, under the average-case scenario, the insertion sort has a time complexity of $O(N^2)$. Draw a clear figure and show all the operations clearly.  **2 pts**
 
-2. At the start of the insertion sort, the index of the inspected value is set to 1. Change the index of the inspected value and verify that the total number of operations equals 20. Consider the worst-case scenario. Use N=5, where N is the number of elements.  **4 pts**
+2.
+Insertion sort normally begins with i = 1 (0-based indexing).
+Let N = 5 and assume the array is in descending order (worst case).
+
+Count operations where:
+
+a comparison is A[j] > key
+
+a shift is A[j+1] = A[j]
+
+a) Start the algorithm at i = 1. Verify the total operations = 20.
+b) Start the algorithm at i = 2, then i = 3. Count operations again.
+c) For (b), does the algorithm still sort the entire array? Explain.     **4 pts**
 
 3. The following function returns whether or not a capital “X” is present within a string.  **4 pt**
 
