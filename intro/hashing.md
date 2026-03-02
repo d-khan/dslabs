@@ -129,7 +129,6 @@ Write a short explanation (1--2 paragraphs) describing what you observe.
 
 ## Important Notes
 
--   If resizing is not implemented, maximum score = 8/10
 -   Using `std::unordered_map` results in major deduction
 -   Emphasis is on correctness and understanding
 
