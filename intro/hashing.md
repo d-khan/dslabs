@@ -11,6 +11,8 @@ By completing this lab, you will:
 
 ## Pre-requisite
 Review "Hash Tables" from the book [Data Structures in C++](https://d-khan.github.io/ds)
+Review reference contents 5.1 and 5.2 about Hash Tables available at (https://github.com/d-khan/dslabs/blob/main/intro/Hash.pdf)
+
 
 ##  Problem Overview
 
