@@ -1,6 +1,6 @@
 # Linked lists
 
-The following contents are in draft mode as I could not find time to finalize and include them in my book.
+The following contents coveres the basic of Linked-List DS.
 
 - Linked lists are extensions to arrays and perform better than arrays in some but not all scenarios.**
 
