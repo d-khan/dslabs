@@ -11,6 +11,7 @@ By completing this lab, students will:
 
 ## Pre-requisite
 Review [Linked lists](https://htmlpreview.github.io/?https://github.com/d-khan/dslabs/blob/main/linked-lists/Linked%20lists.html) contents.
+Review [Linked lists in C++](https://github.com/d-khan/dslabs/blob/main/linked-lists/linked_lists_cpp_lecture.md)
 
 # Stack Operations to Implement
 
