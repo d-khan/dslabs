@@ -4,7 +4,7 @@
 Implement binary search trees data structures
 
 ## Pre-requisite
-Review [Binary Search Trees](https://github.com/d-khan/dslabs/blob/main/binary-search-trees/Binary%20search%20trees.html)
+Review [Binary Search Trees](https://github.com/d-khan/dslabs/blob/main/binary-search-trees/Binary%20search%20trees.md)
 
 ## Task
 1. Imagine you were to take an empty binary search tree and insert the following sequence of numbers in this order: [1, 5, 9, 2, 4, 10, 6, 3, 8]. Draw a diagram showing what the binary search tree would look like. Remember, the numbers are being inserted in the order presented here. **(2 points)**
