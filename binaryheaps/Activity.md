@@ -16,10 +16,10 @@ Review [Binary Heaps](https://github.com/d-khan/dslabs/blob/main/binaryheaps/Bin
 
 ## What to submit?  
 
-- All the explanations are saved in .txt format and uploaded in Canvas.
+- All the explanations are saved in .md format and uploaded on Github.
 
 ## How to submit it?
-- Upload your work in Canvas. Remember .txt file formats are for narrative-based responses, and .cpp is for C++ code. Clearly define task numbers. __Do not compress files. Do not zip.__
+- Upload your work in Github and submit the link in Canvas. __Do not compress files. Do not zip.__
 
 ## Deadline
 The deadlines are posted on the Syllabus as well as on Canvas.
