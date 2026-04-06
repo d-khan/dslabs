@@ -4,7 +4,7 @@
 Implement binary heaps data structures in C++
 
 ## Pre-requisite
-Review [Binary Heaps](https://github.com/d-khan/dslabs/blob/main/binaryheaps/Binary%20heaps.html) lecture.
+Review [Binary Heaps](https://github.com/d-khan/dslabs/blob/main/binaryheaps/Binary%20heaps.md) lecture.
 
 ## Tasks
 1. Draw what the following heap would look like after we insert the value 11 into it:
