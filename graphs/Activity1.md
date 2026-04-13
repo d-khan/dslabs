@@ -4,7 +4,7 @@
 Implement Breadth-first search and Depth-first search algorithms in C++
 
 ## Pre-requisite
-Review [Graphs](https://htmlpreview.github.io/?https://github.com/d-khan/dslabs/blob/main/graphs/Lecture.html) lecture.
+Review [Graphs](https://github.com/d-khan/dslabs/blob/main/graphs/Lecture.md) lecture.
 
 ## Tasks
 1. Create a theoretical graph using a pen and paper OR electronically. **(2 points)**
