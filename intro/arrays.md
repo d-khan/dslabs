@@ -4,7 +4,7 @@
 Understand how array data structures are defined in C++
 
 ## Pre-requisite
-Review [Data Structures in C++](https://d-khan.github.io/cisc-courses/data-structures/lectures/arrays/)
+Review [Why learn data strucutres](https://d-khan.github.io/cisc-courses/data-structures/lectures/arrays/)
 
 ## Task
 1. Explain how to create an array of 100 elements. You can choose any data type of your choice. (requires C++ code) - **1 pts**
